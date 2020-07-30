@@ -4,7 +4,7 @@
 //
 //  Created by Angela Yu on 28/06/2019.
 //  Copyright © 2019 The App Brewery. All rights reserved.
-// i'm CONFUSED
+//
 
 import UIKit
 
@@ -15,7 +15,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        //kanye is running for president??? like unironically??
         return true
     }
 
@@ -39,3 +38,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
